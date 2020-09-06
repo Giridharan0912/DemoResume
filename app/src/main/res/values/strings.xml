@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">Resume Framer</string>
     <string name="developer_copyright">Developed by xxxx team \n Copyright @2020</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="ph_no">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="linked_in">LinkedIn</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="profile_email_id">Profile EmailId</string>
+    <string name="save">save</string>
+    <string name="create_profile">create profile</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="qualification">Qualification</string>
+    <string name="skills">Skills</string>
+    <string name="projects">Projects</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
